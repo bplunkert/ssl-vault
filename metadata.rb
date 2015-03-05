@@ -8,4 +8,4 @@ version '1.1.3'
 
 supports 'ubuntu'
 
-depends 'chef-vault', '~> 1.0.4'
+depends 'chef-vault', '~> 1.2.4'
